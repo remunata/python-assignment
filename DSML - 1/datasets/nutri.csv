@@ -1,0 +1,227 @@
+gender,situation,tea,coffee,height,weight,age,meat,fish,raw_fruit,cooked_fruit_veg,chocol,fat
+Female,Single,0,0,151.0,58.0,72,4-6 times,2-3 times,Less than once,4-6 times,Everyday,Mix of Vegetables Oil
+Female,Single,1,1,162.0,60.0,68,Everyday,Once,Everyday,Everyday,Less than once,Sunflower Oil
+Female,Single,0,4,162.0,75.0,78,2-3 times,Less than once,Everyday,Once,Everyday,Sunflower Oil
+Female,Single,0,0,154.0,45.0,91,Never,4-6 times,4-6 times,Never,2-3 times,Margarine
+Female,Single,2,1,154.0,50.0,65,Everyday,2-3 times,Everyday,Everyday,2-3 times,Margarine
+Female,Single,2,0,159.0,66.0,82,4-6 times,Once,Everyday,Everyday,Less than once,Peanut Oil
+Female,Single,2,0,160.0,66.0,74,2-3 times,2-3 times,Everyday,Everyday,Everyday,Mix of Vegetables Oil
+Female,Single,0,2,163.0,66.0,73,4-6 times,Once,Everyday,Everyday,Less than once,Mix of Vegetables Oil
+Female,Single,0,3,154.0,60.0,89,4-6 times,2-3 times,Everyday,Everyday,Everyday,Mix of Vegetables Oil
+Female,Single,0,2,160.0,77.0,87,Once,2-3 times,Everyday,4-6 times,Never,Peanut Oil
+Female,Single,0,2,175.0,68.0,91,Everyday,Once,Everyday,Everyday,Everyday,Peanut Oil
+Female,Single,2,0,165.0,75.0,81,Everyday,Once,Once,2-3 times,Never,Mix of Vegetables Oil
+Female,Single,0,3,158.0,53.0,89,4-6 times,Once,Everyday,Everyday,Everyday,Sunflower Oil
+Female,Single,2,0,155.0,63.0,79,2-3 times,Less than once,Everyday,2-3 times,Once,Sunflower Oil
+Female,Single,0,2,154.0,80.0,83,2-3 times,2-3 times,Everyday,Everyday,Less than once,Peanut Oil
+Male,Single,0,3,166.0,80.0,78,Everyday,Never,Everyday,2-3 times,Never,Sunflower Oil
+Female,Single,0,2,159.0,57.0,74,2-3 times,Once,Everyday,2-3 times,Less than once,Sunflower Oil
+Female,Single,0,2,157.0,55.0,74,2-3 times,Once,Everyday,Everyday,Once,Peanut Oil
+Male,Single,0,1,165.0,57.0,78,Everyday,Once,Everyday,Everyday,Everyday,Sunflower Oil
+Female,Single,0,0,156.0,90.0,78,Everyday,Less than once,Everyday,Everyday,Once,Sunflower Oil
+Male,Couple,0,1,175.0,90.0,73,Everyday,Less than once,Everyday,2-3 times,Once,Duck or Goose Fat
+Female,Couple,2,2,161.0,68.0,76,4-6 times,Once,Everyday,Everyday,Less than once,Butter
+Male,Couple,2,2,168.0,83.0,85,4-6 times,Once,Everyday,Everyday,Less than once,Butter
+Male,Single,0,4,168.0,90.0,73,2-3 times,Once,4-6 times,Everyday,Never,Peanut Oil
+Female,Couple,3,1,156.0,56.0,77,2-3 times,Once,Everyday,2-3 times,Never,Sunflower Oil
+Male,Couple,3,2,170.0,70.0,74,2-3 times,Once,Everyday,2-3 times,Never,Sunflower Oil
+Female,Single,0,0,162.0,58.0,67,4-6 times,2-3 times,Everyday,Everyday,Never,Peanut Oil
+Male,Couple,4,5,172.0,80.0,68,Everyday,2-3 times,Everyday,Everyday,Everyday,Olive oil
+Female,Single,1,1,165.0,75.0,69,4-6 times,2-3 times,Everyday,Everyday,Everyday,Peanut Oil
+Male,Couple,0,2,171.0,81.0,71,4-6 times,Once,Everyday,Everyday,Everyday,Peanut Oil
+Female,Couple,0,1,160.0,54.0,67,4-6 times,4-6 times,Everyday,2-3 times,Once,Sunflower Oil
+Male,Couple,0,3,176.0,82.0,76,2-3 times,2-3 times,2-3 times,Everyday,Everyday,Mix of Vegetables Oil
+Male,Couple,0,3,164.0,53.0,69,Everyday,2-3 times,Everyday,Everyday,Less than once,Olive oil
+Female,Couple,1,2,156.0,58.0,67,Everyday,2-3 times,Everyday,Everyday,Everyday,Peanut Oil
+Female,Single,0,2,153.0,70.0,69,Everyday,Never,Everyday,Everyday,2-3 times,Olive oil
+Male,Couple,1,0,159.0,70.0,85,2-3 times,Less than once,Everyday,4-6 times,Everyday,Butter
+Male,Couple,0,5,170.0,60.0,74,4-6 times,Once,Everyday,Everyday,Everyday,Butter
+Male,Family,0,0,178.0,87.0,78,2-3 times,Once,4-6 times,2-3 times,Once,Butter
+Male,Couple,1,2,172.0,86.0,73,Once,Everyday,Everyday,Everyday,Less than once,Sunflower Oil
+Male,Couple,0,3,186.0,95.0,74,4-6 times,2-3 times,Everyday,Everyday,Everyday,Sunflower Oil
+Female,Couple,0,3,168.0,77.0,69,4-6 times,2-3 times,Everyday,Everyday,Everyday,Sunflower Oil
+Male,Single,0,0,181.0,94.0,71,2-3 times,Once,Everyday,2-3 times,Everyday,Olive oil
+Male,Single,0,1,172.0,62.0,85,Everyday,2-3 times,Everyday,Everyday,Never,Olive oil
+Male,Couple,0,0,160.0,55.0,70,Everyday,2-3 times,Everyday,Everyday,Everyday,Margarine
+Female,Couple,0,0,155.0,50.0,73,Everyday,Less than once,Everyday,Everyday,Never,Peanut Oil
+Male,Couple,0,1,172.0,81.0,74,Everyday,Less than once,Everyday,Everyday,Never,Peanut Oil
+Female,Couple,0,2,160.0,62.0,77,2-3 times,Once,2-3 times,Everyday,Never,Sunflower Oil
+Female,Single,0,1,158.0,51.0,69,Everyday,Less than once,Everyday,Everyday,Less than once,Sunflower Oil
+Female,Single,0,2,160.0,49.0,76,2-3 times,2-3 times,Everyday,Everyday,2-3 times,Sunflower Oil
+Female,Single,0,0,164.0,70.0,79,2-3 times,2-3 times,4-6 times,Everyday,Never,Olive oil
+Female,Couple,0,3,153.0,60.0,65,2-3 times,2-3 times,2-3 times,4-6 times,2-3 times,Sunflower Oil
+Male,Couple,0,4,169.0,68.0,66,2-3 times,2-3 times,Less than once,4-6 times,Less than once,Sunflower Oil
+Female,Single,2,1,165.0,65.0,85,Everyday,Everyday,Everyday,Everyday,2-3 times,Olive oil
+Male,Single,0,2,166.0,66.0,90,2-3 times,Once,Everyday,2-3 times,Never,Peanut Oil
+Male,Single,0,3,176.0,85.0,75,Everyday,Everyday,Everyday,Once,Never,Margarine
+Male,Couple,0,2,180.0,79.0,78,Less than once,2-3 times,Everyday,Everyday,Less than once,Butter
+Male,Single,0,2,174.0,75.0,87,2-3 times,2-3 times,Everyday,Everyday,Everyday,Butter
+Female,Single,0,2,160.0,60.0,88,2-3 times,Less than once,Everyday,2-3 times,Never,Peanut Oil
+Female,Single,0,1,160.0,67.0,89,2-3 times,4-6 times,2-3 times,Everyday,Less than once,Sunflower Oil
+Male,Couple,0,0,188.0,82.0,70,4-6 times,2-3 times,Everyday,4-6 times,Never,Peanut Oil
+Female,Couple,2,0,160.0,83.0,71,2-3 times,2-3 times,Everyday,4-6 times,2-3 times,Mix of Vegetables Oil
+Male,Couple,0,2,179.0,67.0,76,Everyday,Once,Everyday,2-3 times,2-3 times,Margarine
+Female,Couple,2,1,157.0,57.0,72,Everyday,Once,Less than once,Everyday,Everyday,Sunflower Oil
+Male,Couple,0,2,188.0,96.0,88,2-3 times,2-3 times,Everyday,Everyday,Never,Margarine
+Male,Single,0,3,174.0,74.0,68,2-3 times,Everyday,Everyday,Everyday,Everyday,Olive oil
+Male,Single,0,2,173.0,75.0,72,Everyday,2-3 times,Everyday,2-3 times,Everyday,Butter
+Female,Single,0,3,160.0,60.0,78,4-6 times,2-3 times,Everyday,2-3 times,Less than once,Mix of Vegetables Oil
+Female,Single,0,2,150.0,55.0,67,Everyday,Once,Everyday,Everyday,Never,Peanut Oil
+Male,Couple,4,1,170.0,76.0,76,4-6 times,2-3 times,Everyday,4-6 times,Less than once,Sunflower Oil
+Male,Couple,0,3,180.0,90.0,68,Everyday,2-3 times,Everyday,Everyday,Everyday,Sunflower Oil
+Female,Couple,0,2,152.0,60.0,69,Everyday,2-3 times,Everyday,4-6 times,Less than once,Sunflower Oil
+Male,Couple,0,3,162.0,74.0,67,Everyday,2-3 times,Everyday,4-6 times,Once,Sunflower Oil
+Female,Couple,1,2,152.0,64.0,66,Everyday,2-3 times,2-3 times,Everyday,Everyday,Peanut Oil
+Male,Couple,0,2,165.0,90.0,79,Everyday,Once,Everyday,Everyday,Everyday,Olive oil
+Female,Couple,0,0,154.0,42.0,78,2-3 times,Once,Once,Everyday,Less than once,Olive oil
+Male,Couple,0,1,173.0,80.0,74,2-3 times,2-3 times,4-6 times,Everyday,Everyday,Olive oil
+Female,Couple,0,5,153.0,59.0,71,4-6 times,2-3 times,Everyday,Everyday,Everyday,Olive oil
+Female,Couple,0,1,175.0,50.0,77,2-3 times,4-6 times,Everyday,Everyday,4-6 times,Margarine
+Male,Couple,0,0,177.0,63.0,78,2-3 times,4-6 times,Everyday,Everyday,Never,Margarine
+Male,Couple,0,3,172.0,79.0,78,4-6 times,Once,Everyday,Everyday,Less than once,Peanut Oil
+Female,Couple,4,1,167.0,70.0,75,4-6 times,Once,Everyday,Everyday,Less than once,Peanut Oil
+Female,Couple,0,2,155.0,52.0,67,2-3 times,Less than once,Everyday,4-6 times,Never,Sunflower Oil
+Female,Single,0,0,162.0,58.0,74,2-3 times,Once,Less than once,Everyday,Never,Sunflower Oil
+Female,Single,0,2,156.0,54.0,76,4-6 times,Once,Everyday,Everyday,2-3 times,Sunflower Oil
+Female,Single,2,0,152.0,44.0,73,2-3 times,2-3 times,Everyday,Never,Everyday,Margarine
+Female,Single,3,0,156.0,58.0,72,2-3 times,4-6 times,Everyday,Everyday,Never,Olive oil
+Female,Couple,0,2,160.0,62.0,78,2-3 times,2-3 times,4-6 times,Everyday,4-6 times,Sunflower Oil
+Male,Couple,0,2,170.0,69.0,84,2-3 times,Never,4-6 times,Everyday,Never,Sunflower Oil
+Female,Couple,4,0,164.0,80.0,65,2-3 times,Once,2-3 times,2-3 times,Less than once,Olive oil
+Female,Single,2,0,160.0,53.0,71,2-3 times,2-3 times,Everyday,Everyday,Never,Peanut Oil
+Male,Couple,0,0,175.0,75.0,70,2-3 times,2-3 times,Everyday,Everyday,2-3 times,Peanut Oil
+Female,Single,0,2,161.0,56.0,71,4-6 times,2-3 times,4-6 times,Everyday,Everyday,Margarine
+Female,Couple,0,2,168.0,70.0,69,4-6 times,2-3 times,Everyday,4-6 times,Everyday,Margarine
+Male,Couple,0,2,175.0,85.0,77,4-6 times,2-3 times,Everyday,4-6 times,Everyday,Margarine
+Male,Single,0,2,186.0,85.0,74,Once,4-6 times,Everyday,Everyday,Never,Olive oil
+Male,Couple,0,2,176.0,75.0,86,4-6 times,Once,4-6 times,Everyday,Never,Sunflower Oil
+Female,Couple,0,2,158.0,73.0,79,4-6 times,Once,4-6 times,Everyday,Never,Sunflower Oil
+Female,Single,0,4,167.0,69.0,71,Everyday,4-6 times,Everyday,Everyday,Everyday,Olive oil
+Male,Couple,3,0,186.0,63.0,72,4-6 times,2-3 times,Everyday,4-6 times,4-6 times,Peanut Oil
+Female,Couple,3,0,165.0,67.0,70,4-6 times,2-3 times,Everyday,4-6 times,Everyday,Peanut Oil
+Female,Couple,0,2,168.0,69.0,66,2-3 times,2-3 times,Everyday,Everyday,Everyday,Butter
+Female,Single,0,2,156.0,57.0,68,4-6 times,Once,4-6 times,4-6 times,2-3 times,Margarine
+Female,Single,0,0,164.0,90.0,68,2-3 times,Once,2-3 times,Once,Less than once,Sunflower Oil
+Female,Single,1,1,163.0,45.0,74,4-6 times,2-3 times,Everyday,Everyday,Everyday,Mix of Vegetables Oil
+Male,Single,0,0,170.0,77.0,72,4-6 times,4-6 times,Everyday,Less than once,Everyday,Sunflower Oil
+Male,Single,0,0,172.0,74.0,73,4-6 times,Less than once,Everyday,2-3 times,Everyday,Sunflower Oil
+Female,Single,4,0,162.0,51.0,78,Everyday,Less than once,Everyday,4-6 times,Everyday,Sunflower Oil
+Female,Single,2,1,163.0,75.0,89,2-3 times,2-3 times,Everyday,Everyday,Less than once,Margarine
+Male,Couple,0,2,178.0,80.0,67,Everyday,2-3 times,Once,2-3 times,2-3 times,Sunflower Oil
+Female,Single,0,2,148.0,50.0,87,Everyday,Once,Everyday,Everyday,Everyday,Sunflower Oil
+Female,Couple,2,0,155.0,71.0,81,Everyday,Once,Less than once,Everyday,Less than once,Sunflower Oil
+Male,Couple,2,0,168.0,65.0,70,Everyday,Once,Less than once,Everyday,Less than once,Sunflower Oil
+Female,Single,0,0,165.0,60.0,77,Everyday,2-3 times,Everyday,Everyday,Everyday,Sunflower Oil
+Male,Couple,0,0,163.0,71.0,86,4-6 times,Once,4-6 times,Everyday,Everyday,Peanut Oil
+Female,Couple,0,0,154.0,50.0,78,4-6 times,Once,4-6 times,Everyday,Everyday,Peanut Oil
+Female,Single,0,1,163.0,61.0,70,Everyday,Less than once,Once,Everyday,Everyday,Sunflower Oil
+Female,Couple,9,0,159.0,68.0,74,4-6 times,2-3 times,Once,Everyday,Never,Colza Oil
+Male,Couple,2,1,181.0,76.0,78,4-6 times,2-3 times,Everyday,Everyday,Everyday,Olive oil
+Female,Couple,4,1,154.0,53.0,76,4-6 times,2-3 times,Everyday,Everyday,Everyday,Olive oil
+Male,Couple,0,2,172.0,75.0,76,2-3 times,4-6 times,Everyday,Everyday,Less than once,Olive oil
+Female,Couple,2,0,163.0,58.0,67,Once,4-6 times,Everyday,Everyday,2-3 times,Olive oil
+Female,Single,1,1,158.0,42.0,67,Less than once,Once,Everyday,Once,Everyday,Peanut Oil
+Female,Single,0,3,150.0,56.0,77,4-6 times,Once,Once,Everyday,Never,Peanut Oil
+Female,Single,0,2,153.0,48.0,72,2-3 times,2-3 times,4-6 times,4-6 times,4-6 times,Sunflower Oil
+Male,Couple,0,1,170.0,55.0,74,Everyday,Once,Everyday,Everyday,Less than once,Butter
+Female,Couple,2,3,164.0,54.0,75,Everyday,2-3 times,Everyday,Everyday,Less than once,Margarine
+Male,Couple,2,3,165.0,64.0,78,Everyday,2-3 times,Everyday,Everyday,Less than once,Margarine
+Female,Single,0,2,151.0,38.0,66,4-6 times,4-6 times,Everyday,Everyday,Everyday,Margarine
+Male,Couple,0,1,172.0,78.0,84,2-3 times,2-3 times,Everyday,Everyday,Less than once,Sunflower Oil
+Female,Couple,0,2,153.0,64.0,82,2-3 times,Once,Everyday,Everyday,Less than once,Sunflower Oil
+Male,Single,0,1,173.0,75.0,80,4-6 times,2-3 times,Everyday,4-6 times,Once,Olive oil
+Male,Couple,0,3,188.0,75.0,75,Everyday,2-3 times,Everyday,Everyday,Everyday,Sunflower Oil
+Female,Couple,0,3,160.0,58.0,69,Everyday,2-3 times,Everyday,Everyday,Less than once,Sunflower Oil
+Male,Couple,0,3,174.0,73.0,69,4-6 times,2-3 times,Everyday,Everyday,Everyday,Sunflower Oil
+Female,Couple,0,2,150.0,40.0,70,4-6 times,2-3 times,Everyday,Everyday,Everyday,Sunflower Oil
+Female,Single,0,2,168.0,63.0,69,2-3 times,2-3 times,4-6 times,Everyday,Less than once,Peanut Oil
+Female,Couple,2,1,162.0,55.0,65,2-3 times,2-3 times,Everyday,Everyday,Less than once,Peanut Oil
+Female,Single,10,1,158.0,63.0,75,Everyday,Once,Everyday,Everyday,Everyday,Sunflower Oil
+Female,Single,0,2,140.0,56.0,84,2-3 times,Less than once,2-3 times,2-3 times,4-6 times,Peanut Oil
+Male,Single,0,3,172.0,74.0,81,Everyday,Less than once,Everyday,Everyday,2-3 times,Margarine
+Female,Single,1,0,156.0,54.0,79,2-3 times,Everyday,Everyday,Everyday,Never,Olive oil
+Female,Family,0,0,160.0,60.0,76,4-6 times,2-3 times,Everyday,Once,Once,Sunflower Oil
+Male,Couple,0,3,170.0,75.0,71,4-6 times,Once,Everyday,Everyday,2-3 times,Peanut Oil
+Female,Couple,2,0,165.0,69.0,77,Everyday,Once,Everyday,Everyday,Less than once,Peanut Oil
+Male,Couple,0,3,163.0,70.0,70,Everyday,2-3 times,Everyday,Everyday,Once,Peanut Oil
+Female,Couple,0,3,160.0,50.0,70,2-3 times,Once,Everyday,Everyday,Less than once,Peanut Oil
+Male,Couple,0,3,165.0,75.0,73,2-3 times,Once,Everyday,Everyday,Less than once,Peanut Oil
+Female,Couple,0,3,156.0,53.0,71,Everyday,Less than once,Everyday,Everyday,Never,Sunflower Oil
+Male,Couple,0,2,178.0,82.0,76,Everyday,Once,Everyday,Everyday,Everyday,Sunflower Oil
+Female,Couple,0,4,160.0,75.0,69,4-6 times,Once,Once,Everyday,Less than once,Peanut Oil
+Female,Single,0,3,171.0,72.0,75,Everyday,2-3 times,Everyday,Everyday,Less than once,Margarine
+Female,Family,0,1,156.0,64.0,80,2-3 times,2-3 times,Everyday,Everyday,Less than once,Butter
+Female,Single,0,3,150.0,60.0,76,2-3 times,2-3 times,Everyday,2-3 times,Less than once,Mix of Vegetables Oil
+Female,Single,0,4,162.0,53.0,65,4-6 times,2-3 times,Everyday,Everyday,Everyday,Margarine
+Female,Couple,3,0,164.0,67.0,67,4-6 times,2-3 times,Everyday,Everyday,Less than once,Mix of Vegetables Oil
+Male,Couple,0,2,178.0,66.0,70,4-6 times,2-3 times,Everyday,Everyday,Less than once,Mix of Vegetables Oil
+Female,Couple,1,2,166.0,55.0,76,4-6 times,2-3 times,Everyday,Everyday,Never,Butter
+Female,Single,0,3,151.0,60.0,72,2-3 times,2-3 times,Everyday,Everyday,Less than once,Sunflower Oil
+Male,Couple,0,2,169.0,74.0,77,2-3 times,Once,Everyday,Once,Once,Sunflower Oil
+Female,Couple,0,0,155.0,45.0,73,2-3 times,2-3 times,Everyday,Everyday,Never,Margarine
+Male,Single,0,1,176.0,75.0,77,2-3 times,2-3 times,Everyday,Everyday,2-3 times,Olive oil
+Male,Single,0,5,171.0,74.0,70,Everyday,Once,Never,2-3 times,Once,Butter
+Female,Family,0,3,165.0,75.0,73,2-3 times,2-3 times,Everyday,Everyday,Less than once,Sunflower Oil
+Male,Couple,4,0,176.0,82.0,66,2-3 times,2-3 times,Everyday,Everyday,Never,Olive oil
+Female,Single,1,1,158.0,55.0,85,2-3 times,2-3 times,2-3 times,4-6 times,2-3 times,Peanut Oil
+Female,Single,0,3,153.0,69.0,72,2-3 times,2-3 times,Less than once,4-6 times,Once,Olive oil
+Female,Single,0,2,155.0,64.0,78,Once,Never,Everyday,2-3 times,Never,Peanut Oil
+Female,Single,0,2,155.0,65.0,82,4-6 times,4-6 times,Everyday,Less than once,Never,Mix of Vegetables Oil
+Female,Single,0,0,169.0,60.0,75,2-3 times,2-3 times,Everyday,4-6 times,Once,Mix of Vegetables Oil
+Female,Single,2,0,148.0,60.0,73,2-3 times,Less than once,2-3 times,4-6 times,2-3 times,Sunflower Oil
+Female,Single,0,0,156.0,52.0,72,4-6 times,Once,Never,Everyday,Everyday,Sunflower Oil
+Male,Family,0,2,166.0,92.0,79,Everyday,Once,Everyday,Everyday,Never,Duck or Goose Fat
+Female,Single,0,5,155.0,57.0,69,Once,Less than once,Once,4-6 times,Everyday,Sunflower Oil
+Female,Family,2,1,154.0,78.0,66,4-6 times,2-3 times,2-3 times,Everyday,Never,Sunflower Oil
+Male,Single,0,3,164.0,78.0,75,2-3 times,2-3 times,Everyday,Everyday,Never,Olive oil
+Male,Couple,0,2,175.0,56.0,75,Everyday,2-3 times,Everyday,Everyday,Less than once,Duck or Goose Fat
+Female,Couple,0,2,162.0,71.0,73,Everyday,2-3 times,Everyday,Everyday,Never,Duck or Goose Fat
+Female,Couple,0,1,158.0,65.0,69,Once,Once,Everyday,Everyday,Everyday,Peanut Oil
+Female,Couple,0,3,154.0,51.0,76,4-6 times,2-3 times,Everyday,Everyday,Never,Sunflower Oil
+Female,Single,0,2,160.0,70.0,72,Everyday,2-3 times,Everyday,Everyday,Never,Peanut Oil
+Female,Single,0,2,163.0,72.0,72,Everyday,2-3 times,Everyday,Everyday,Never,Peanut Oil
+Female,Couple,0,1,152.0,53.0,78,2-3 times,Once,Everyday,Everyday,2-3 times,Sunflower Oil
+Female,Single,0,1,163.0,62.0,68,2-3 times,2-3 times,2-3 times,Everyday,Never,Mix of Vegetables Oil
+Female,Single,3,1,170.0,61.0,83,Less than once,Everyday,Everyday,Everyday,Everyday,Olive oil
+Male,Couple,0,1,182.0,74.0,75,2-3 times,2-3 times,Everyday,4-6 times,Once,Mix of Vegetables Oil
+Female,Couple,2,1,163.0,68.0,70,2-3 times,2-3 times,Everyday,4-6 times,Once,Mix of Vegetables Oil
+Male,Couple,0,2,170.0,75.0,74,2-3 times,2-3 times,Everyday,4-6 times,Less than once,Margarine
+Female,Couple,6,0,158.0,62.0,75,2-3 times,2-3 times,Everyday,4-6 times,Never,Margarine
+Male,Couple,0,2,182.0,90.0,66,Everyday,Once,Everyday,2-3 times,Less than once,Olive oil
+Female,Family,1,0,164.0,64.0,77,Everyday,2-3 times,Everyday,Everyday,4-6 times,Olive oil
+Female,Single,0,2,156.0,68.0,72,2-3 times,2-3 times,Everyday,2-3 times,Less than once,Butter
+Male,Couple,0,2,172.0,91.0,73,Once,4-6 times,Everyday,4-6 times,Less than once,Olive oil
+Male,Couple,0,2,162.0,75.0,65,4-6 times,Once,4-6 times,Everyday,Less than once,Peanut Oil
+Female,Couple,0,1,150.0,48.0,73,Everyday,2-3 times,Everyday,Everyday,Everyday,Sunflower Oil
+Female,Single,2,1,160.0,65.0,81,4-6 times,2-3 times,4-6 times,Everyday,4-6 times,Peanut Oil
+Female,Single,0,2,152.0,54.0,69,2-3 times,2-3 times,Everyday,2-3 times,4-6 times,Margarine
+Male,Single,0,2,165.0,54.0,70,2-3 times,2-3 times,Everyday,Once,Less than once,Margarine
+Female,Couple,0,3,155.0,63.0,71,4-6 times,2-3 times,Everyday,Everyday,Never,Sunflower Oil
+Male,Couple,0,2,168.0,67.0,73,4-6 times,2-3 times,Everyday,Everyday,Never,Sunflower Oil
+Female,Family,0,1,154.0,63.0,74,Everyday,Once,Everyday,Everyday,Never,Mix of Vegetables Oil
+Male,Couple,0,0,176.0,74.0,72,2-3 times,2-3 times,Everyday,2-3 times,2-3 times,Butter
+Female,Single,3,1,154.0,53.0,71,2-3 times,Less than once,2-3 times,Less than once,4-6 times,Peanut Oil
+Male,Single,0,2,168.0,67.0,69,2-3 times,2-3 times,Everyday,Everyday,Less than once,Peanut Oil
+Female,Couple,0,1,163.0,61.0,66,Once,Once,Everyday,2-3 times,4-6 times,Mix of Vegetables Oil
+Male,Couple,0,1,177.0,80.0,74,Once,Once,Everyday,2-3 times,4-6 times,Mix of Vegetables Oil
+Male,Couple,4,2,168.0,73.0,67,Once,4-6 times,Everyday,2-3 times,Never,Olive oil
+Female,Single,0,2,171.0,65.0,76,2-3 times,2-3 times,Everyday,Everyday,Everyday,Olive oil
+Female,Single,5,1,160.0,62.0,84,2-3 times,2-3 times,4-6 times,Everyday,Everyday,Margarine
+Female,Single,0,3,168.0,64.0,84,2-3 times,2-3 times,Everyday,2-3 times,Everyday,Olive oil
+Female,Single,2,2,160.0,48.0,78,Everyday,2-3 times,Everyday,Everyday,2-3 times,Sunflower Oil
+Male,Couple,4,1,177.0,67.0,76,4-6 times,Everyday,Less than once,Everyday,Never,Peanut Oil
+Female,Family,0,2,160.0,80.0,71,2-3 times,2-3 times,4-6 times,4-6 times,Less than once,Margarine
+Male,Couple,0,3,165.0,76.0,80,Everyday,Less than once,Everyday,Everyday,Less than once,Olive oil
+Female,Couple,1,0,157.0,80.0,79,Everyday,Less than once,Everyday,Everyday,Less than once,Sunflower Oil
+Male,Couple,0,1,176.0,73.0,66,4-6 times,2-3 times,Everyday,Everyday,Less than once,Olive oil
+Female,Couple,0,1,151.0,48.0,66,4-6 times,2-3 times,4-6 times,Everyday,Everyday,Olive oil
+Female,Couple,0,5,153.0,53.0,69,4-6 times,2-3 times,Everyday,Everyday,Less than once,Olive oil
+Female,Couple,2,0,165.0,64.0,75,4-6 times,2-3 times,Everyday,4-6 times,Everyday,Olive oil
+Male,Couple,0,0,171.0,85.0,73,4-6 times,2-3 times,Everyday,4-6 times,Less than once,Olive oil
+Male,Couple,0,5,167.0,76.0,82,2-3 times,2-3 times,Everyday,4-6 times,Everyday,Mix of Vegetables Oil
+Female,Couple,2,1,157.0,58.0,77,2-3 times,2-3 times,Everyday,4-6 times,Everyday,Mix of Vegetables Oil
+Female,Single,0,1,160.0,73.0,74,4-6 times,2-3 times,Everyday,Everyday,Less than once,Mix of Vegetables Oil
+Female,Couple,0,3,163.0,62.0,68,4-6 times,2-3 times,4-6 times,4-6 times,Less than once,Peanut Oil
+Male,Couple,0,2,170.0,74.0,71,4-6 times,2-3 times,4-6 times,4-6 times,Less than once,Peanut Oil
+Female,Single,0,2,154.0,45.0,77,4-6 times,2-3 times,2-3 times,Everyday,2-3 times,Olive oil
+Female,Couple,2,0,159.0,63.0,69,2-3 times,2-3 times,Everyday,Everyday,Less than once,Sunflower Oil
